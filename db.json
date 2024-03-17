@@ -1,0 +1,19 @@
+{
+  "companies": [
+    {
+      "name": "Apple",
+      "size": "Big"
+    },
+    { "name": "Amazon", "size": "Big" }
+  ],
+  "production": [
+    {
+      "name": "Iphone",
+      "type": "phone"
+    },
+    {
+      "name": "Philips Aqua",
+      "type": "vacuum cleaner"
+    }
+  ]
+}
